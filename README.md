@@ -36,7 +36,7 @@ The repository is organized to be simple and easy to navigate:
 
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/your-username/online-bookstore-sales.git](https://github.com/your-username/online-bookstore-sales.git)
+    git clone [https://github.com/Omkar-Kashid23/online-bookstore-sales.git](https://github.com/Omkar-Kashid23/online-bookstore-sales.git)
     cd online-bookstore-sales
     ```
 2.  **Set up your database**: Import the data from the CSV files in the `data/` folder into your preferred relational database.
