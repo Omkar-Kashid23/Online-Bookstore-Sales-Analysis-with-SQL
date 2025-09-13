@@ -43,7 +43,6 @@ The repository is organized to be simple and easy to navigate:
 3.  **Run the queries**: Open the `.sql` files in the `sql_queries/` directory and execute them in your database client.
 
 ---
-
 ### ✍️ Contributing
 
 Feel free to open an issue or submit a pull request if you have suggestions for new analysis queries or improvements to the documentation. All contributions are welcome!
